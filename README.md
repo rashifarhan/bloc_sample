@@ -1,6 +1,6 @@
 # bloc_sample
 
-A new Flutter project.
+Counter app using bloc statemanagement.
 
 ## Getting Started
 
